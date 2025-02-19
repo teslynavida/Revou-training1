@@ -1,0 +1,29 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.containe > div {
+    padding: 10px;
+    text-align: center;
+    font-size: 14sp;
+    color: #ffeead;
+    border: 2px solid;
+    background-color: green;
+}
+
+.logo{
+    margin-right: auto;
+}
+
+.container > div {
+    display: flex;
+    align-items: center;
+    background-color: rgb(59, 170, 59);
+    padding-inline: 10px;
+    border:2px solid #ffeead;
+}
+.home, search, logout{
+    font-size: 16px;
+}
