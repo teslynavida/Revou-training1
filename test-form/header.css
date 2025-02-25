@@ -4,7 +4,7 @@
     justify-content: flex-end;
 }
 
-.containe > div {
+.container > div {
     padding: 10px;
     text-align: center;
     font-size: 14sp;
